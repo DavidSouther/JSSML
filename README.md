@@ -17,6 +17,7 @@ jssml.awesome(); // "awesome"
 In lieu of a formal styleguide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code using [grunt](https:/
 
 ## Release History
+2012-12-08 0.0.2
 2012-12-08 0.0.1
 
 ## License
